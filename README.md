@@ -67,3 +67,7 @@ py -3.11 scripts\render_readme_assets.py
 - [lib/message_retention_guardian/analysis.rb](C:/Users/chaus/dev/repos/message-retention-guardian/lib/message_retention_guardian/analysis.rb)
 - [lib/message_retention_guardian/sample_data.rb](C:/Users/chaus/dev/repos/message-retention-guardian/lib/message_retention_guardian/sample_data.rb)
 - [docs/architecture.md](C:/Users/chaus/dev/repos/message-retention-guardian/docs/architecture.md)
+
+---
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/mirzacausevic/) · [Kinetic Gain](https://kineticgain.com) · [Medium](https://medium.com/@mizcausevic/) · [Skills](https://mizcausevic.com/skills/)
