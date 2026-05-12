@@ -7,9 +7,9 @@ This log is intentionally written as an engineering record rather than a launch 
 ## [1.0.0] - 2026-05-12
 
 ### Released
-- Published \$name\ as a public, portfolio-grade legal and procurement operations system.
+- Published **message-retention-guardian** as a public, portfolio-grade legal and procurement operations system.
 - Packaged the current implementation, documentation, validation workflow, and proof surfaces into a repo that could be reviewed by engineering, product, and operating stakeholders.
-- Tightened the repo story around the real-world operating problem: obligations, reviews, and renewals were slipping because ownership and deadline pressure were spread across too many systems.
+- Tightened the repo story around the real-world operating problem: obligation visibility gaps, renewal pressure, and cross-owner approval blockers.
 
 ### Why this mattered
 - Existing approaches in CLM tools, spreadsheets, and generic workflow queues were useful, but they stored clauses and tasks, but did not present renewal pressure and approval blockers as an operational command problem.
@@ -18,7 +18,7 @@ This log is intentionally written as an engineering record rather than a launch 
 ## [0.1.0] - 2026-01-18
 
 ### Shipped
-- Cut the first coherent internal version of the product shape behind \$name\.
+- Cut the first coherent internal version of the product shape behind **message-retention-guardian**.
 - Standardized the core objects, decision surfaces, and operator outputs around the repo's main working problem.
 - Established the first reviewable version of the architecture described as: Ruby service for retention policy enforcement, legal hold protection, and records lifecycle management. WEBrick-based, designed for enterprise compliance workflows.
 
@@ -55,12 +55,12 @@ This log is intentionally written as an engineering record rather than a launch 
 ## [Idea Origin] - 2024-01-13
 
 ### Observed
-- The initial idea surfaced while looking at how teams were handling obligations, reviews, and renewals were slipping because ownership and deadline pressure were spread across too many systems.
+- The initial idea surfaced while looking at how teams were handling obligation visibility gaps, renewal pressure, and cross-owner approval blockers.
 - The recurring pattern was that people could often see fragments of the problem, but not the whole operational story in one place.
 
 ### Insight
 - The missing product was not another point solution. It was a clearer operating layer that made the work legible to legal ops, procurement, and risk teams.
-- That insight became the basis for \$name\.
+- That insight became the basis for **message-retention-guardian**.
 
 ## [Background Signals] - 2022-08-09
 
