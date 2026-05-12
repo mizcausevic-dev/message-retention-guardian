@@ -6,7 +6,7 @@ In this case the pressure showed up around obligation visibility gaps, renewal p
 
 That was the opening for **message-retention-guardian**. The repo was designed around a simple idea: operators need more than visibility. They need evidence, priorities, and next actions that make sense under pressure. That is why the project is framed as legal and procurement operations rather than as a generic app demo. The point is not just to show that data can be rendered or APIs can be wired together. The point is to show what a practical control surface looks like when the audience is legal ops, procurement, and risk teams.
 
-Existing tools missed the mark for understandable reasons. The available tooling landscape â€” CLM tools, spreadsheets, and generic workflow queues â€” helped with record-keeping, scanning, reporting, or workflow coverage. What it still missed was a command view that could turn clauses, deadlines, and blockers into a usable operating queue. In other words, the gap was not capability in isolation. The gap was operational coherence. The team responsible for day-to-day decisions still had to reconstruct the story manually.
+Existing tools missed the mark for understandable reasons. The available tooling landscape - CLM tools, spreadsheets, and generic workflow queues - helped with record-keeping, scanning, reporting, or workflow coverage. What it still missed was a command view that could turn clauses, deadlines, and blockers into a usable operating queue. In other words, the gap was not capability in isolation. The gap was operational coherence. The team responsible for day-to-day decisions still had to reconstruct the story manually.
 
 That shaped the design philosophy from the start:
 
