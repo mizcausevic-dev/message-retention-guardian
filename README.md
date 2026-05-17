@@ -31,7 +31,7 @@ It is built to feel operational, not theoretical: when a deletion window is abou
 ## Local Run
 
 ```powershell
-Set-Location "C:\Users\chaus\dev\repos\message-retention-guardian"
+cd message-retention-guardian
 $env:Path = "C:\Ruby33-x64\bin;$env:Path"
 bundle install
 bundle exec ruby server.rb
@@ -52,7 +52,7 @@ Then open:
 ## Validation
 
 ```powershell
-Set-Location "C:\Users\chaus\dev\repos\message-retention-guardian"
+cd message-retention-guardian
 $env:Path = "C:\Ruby33-x64\bin;$env:Path"
 bundle install
 bundle exec ruby tests\test_analysis.rb
@@ -62,11 +62,11 @@ py -3.11 scripts\render_readme_assets.py
 
 ## Repo Layout
 
-- [server.rb](C:/Users/chaus/dev/repos/message-retention-guardian/server.rb)
-- [lib/message_retention_guardian/app.rb](C:/Users/chaus/dev/repos/message-retention-guardian/lib/message_retention_guardian/app.rb)
-- [lib/message_retention_guardian/analysis.rb](C:/Users/chaus/dev/repos/message-retention-guardian/lib/message_retention_guardian/analysis.rb)
-- [lib/message_retention_guardian/sample_data.rb](C:/Users/chaus/dev/repos/message-retention-guardian/lib/message_retention_guardian/sample_data.rb)
-- [docs/architecture.md](C:/Users/chaus/dev/repos/message-retention-guardian/docs/architecture.md)
+- [server.rb](./server.rb)
+- [lib/message_retention_guardian/app.rb](./lib/message_retention_guardian/app.rb)
+- [lib/message_retention_guardian/analysis.rb](./lib/message_retention_guardian/analysis.rb)
+- [lib/message_retention_guardian/sample_data.rb](./lib/message_retention_guardian/sample_data.rb)
+- [docs/architecture.md](./docs/architecture.md)
 
 ---
 
